@@ -13,7 +13,6 @@ body {
     box-shadow: 8px 5px 5px darkblue;
     border-radius: 4px;
     font-size: 15px;
-    padding: 10px;
 }
 
 
@@ -30,7 +29,7 @@ body {
 
 .choice-text {
     padding: 1.5rem;
-    width: 100%;
+    
 }
 
 .correct {
