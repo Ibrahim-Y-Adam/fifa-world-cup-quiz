@@ -379,7 +379,7 @@ let questions = [
         choice2: "China (in 1998)",
         choice3: "Japan (in 1994)",
         choice4: "Qatar (in 2006)",
-        answer: 3,
+        answer: 1,
     },
     {
         question: "In what year was the first FIFA Women's World Cup?",
